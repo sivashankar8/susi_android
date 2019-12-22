@@ -57,7 +57,7 @@ Our chat channel is on gitter here: https://gitter.im/fossasia/susi_android
   </tr>
 </table>
 
-## Development
+## Development 
 
 A native Android app using both Java and Kotlin for writing code. The answers for user queries comes from [SUSI Server](https://github.com/fossasia/susi_server) which further uses skills defined in [SUSI Skill Data](https://github.com/fossasia/susi_skill_data).
 
